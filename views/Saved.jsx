@@ -13,7 +13,7 @@ const Saved = props =>
           <body>
                <nav className="blue darken-3">
                     <div className="nav-wrapper">
-                         <a href="#" className="brand-logo center">DJTT News Scraper - Saved Articles</a>
+                         <a className="brand-logo center">DJTT News Scraper - Saved Articles</a>
                          <ul id="nav-mobile" className="right hide-on-med-and-down">
                               
                               <li><a id="goToHome" href="./saved">Home Page</a></li>

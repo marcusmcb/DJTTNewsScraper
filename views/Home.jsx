@@ -14,7 +14,7 @@ const Home = props =>
           <body>
                <nav className="blue darken-3">
                     <div className="nav-wrapper">
-                         <a href="#" className="brand-logo center">DJTT News Scraper</a>
+                         <a className="brand-logo center">DJTT News Scraper</a>
                          <ul id="nav-mobile" className="right hide-on-med-and-down">
                               <li><a id="scrapeData" href="#">Scrape Articles</a></li>
                               <li><a id="goToSaved" href="./saved">Saved Articles</a></li>
