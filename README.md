@@ -4,11 +4,11 @@ Welcome to the DJ TechTools news scraper app!
 
 This is a very simple app that you can use to scrape news articles from djtechtools.com, a popular blog and technology site dedicated to those who have a passion for DJing and DJ culture.
 
-#Link To The App:
+# Link To The App:
 
 https://boiling-hamlet-34077.herokuapp.com/
 
-##Using The App:
+## Using The App:
 
 If it's the first time that you've used this app, you should see nothing when the home page loads.  If you've previously used the app, the home page will display any articles from the DJTT news page that have been previously saved or scraped.
 
@@ -20,7 +20,7 @@ Upon clicking the "Saved Articles" button, you will see a list of any/all of you
 
 To grab the latest news articles or to repopulate the home page again, simply click the "home" button from the Saved Articles page and you're good to go.
 
-##Background Info:
+## Background Info:
 
 This app was built with Javascript using the following libraries/dependencies:
 
